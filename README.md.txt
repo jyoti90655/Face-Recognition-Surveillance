@@ -22,8 +22,5 @@ python face_gui_app.py
 
 
 ## 👩‍💻 Built By
-- Lumina (Detection, Integration, UI)
-- [Team Member 1]
-- [Team Member 2]
-
+- Barnwal Jyoti Kumari
 
